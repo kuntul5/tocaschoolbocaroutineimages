@@ -1,0 +1,381 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+	  "admob_banner": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+      "admob_rewardid": "ca-app-pub-3940256099942544/522435491x", 
+      "interval": 1,
+      "coin_reward": 0
+    }
+  ],
+  "More":
+  [
+	{
+      "title":"KUN",
+      "image":"",
+      "link":"https://play.google.com/store/apps/dev?id=7330959576723396199"
+    }
+  ],
+"Categories": [
+    {
+      "name_category": "KUN",
+      "image": "#"
+    }
+  ],
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "KUN",
+      "title":"1",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/01.webp",
+      "coin":1000
+    },
+    {
+      "id": 2,
+      "name_category": "KUN",
+      "title": "2",
+      "image": "https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/02.webp",
+      "coin":1000
+    },
+    {
+      "id":3,
+      "name_category": "KUN",
+      "title":"3",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/03.webp",
+      "coin":1000
+    },
+    {
+      "id":4,
+      "name_category": "KUN",
+      "title":"4",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/04.webp",
+      "coin":1000
+    },
+    {
+      "id":5,
+      "name_category": "KUN",
+      "title":"5",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/05.webp",
+      "coin":1000
+    },
+    {
+      "id":6,
+      "name_category": "KUN",
+      "title":"6",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/06.webp",
+      "coin":1000
+    },
+    {
+      "id":7,
+      "name_category": "KUN",
+      "title":"7",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/07.webp",
+      "coin":1000
+    },
+    {
+      "id":8,
+      "name_category": "KUN",
+      "title":"8",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/08.webp",
+      "coin":1000
+    },
+    {
+      "id":9,
+      "name_category": "KUN",
+      "title":"9",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/09.webp",
+      "coin":1000
+    },
+    {
+      "id":10,
+      "name_category": "KUN",
+      "title":"10",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/10.webp",
+      "coin":1000
+    },
+    {
+      "id": 11,
+      "name_category": "KUN",
+      "title": "11",
+      "image": "https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/11.webp",
+      "coin":1000
+    },
+    {
+      "id":12,
+      "name_category": "KUN",
+      "title":"12",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/12.webp",
+      "coin":1000
+    },
+    {
+      "id":13,
+      "name_category": "KUN",
+      "title":"13",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/13.webp",
+      "coin":1000
+    },
+    {
+      "id":14,
+      "name_category": "KUN",
+      "title":"14",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/14.webp",
+      "coin":1000
+    },
+    {
+      "id":15,
+      "name_category": "KUN",
+      "title":"15",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/15.webp",
+      "coin":1000
+    },
+    {
+      "id":16,
+      "name_category": "KUN",
+      "title":"16",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/16.webp",
+      "coin":1000
+    },
+    {
+      "id":17,
+      "name_category": "KUN",
+      "title":"17",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/17.webp",
+      "coin":1000
+    },
+    {
+      "id":18,
+      "name_category": "KUN",
+      "title":"18",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/18.webp",
+      "coin":1000
+    },
+    {
+      "id":19,
+      "name_category": "KUN",
+      "title":"19",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/19.webp",
+      "coin":1000
+    },
+    {
+      "id":20,
+      "name_category": "KUN",
+      "title":"20",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/20.webp",
+      "coin":1000
+    },
+    {
+      "id": 21,
+      "name_category": "KUN",
+      "title": "21",
+      "image": "https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/21.webp",
+      "coin":1000
+    },
+    {
+      "id":22,
+      "name_category": "KUN",
+      "title":"22",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/22.webp",
+      "coin":1000
+    },
+    {
+      "id":23,
+      "name_category": "KUN",
+      "title":"23",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/23.webp",
+      "coin":1000
+    },
+    {
+      "id":24,
+      "name_category": "KUN",
+      "title":"24",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/24.webp",
+      "coin":1000
+    },
+    {
+      "id":25,
+      "name_category": "KUN",
+      "title":"25",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/25.webp",
+      "coin":1000
+    },
+    {
+      "id":26,
+      "name_category": "KUN",
+      "title":"26",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/26.webp",
+      "coin":1000
+    },
+    {
+      "id":27,
+      "name_category": "KUN",
+      "title":"27",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/27.webp",
+      "coin":1000
+    },
+    {
+      "id":28,
+      "name_category": "KUN",
+      "title":"28",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/28.webp",
+      "coin":1000
+    },
+    {
+      "id":29,
+      "name_category": "KUN",
+      "title":"29",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/29.webp",
+      "coin":1000
+    },
+    {
+      "id":30,
+      "name_category": "KUN",
+      "title":"30",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/30.webp",
+      "coin":1000
+    },
+    {
+      "id": 31,
+      "name_category": "KUN",
+      "title": "31",
+      "image": "https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/31.webp",
+      "coin":1000
+    },
+    {
+      "id":32,
+      "name_category": "KUN",
+      "title":"32",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/32.webp",
+      "coin":1000
+    },
+    {
+      "id":33,
+      "name_category": "KUN",
+      "title":"33",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/33.webp",
+      "coin":1000
+    },
+    {
+      "id":34,
+      "name_category": "KUN",
+      "title":"34",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/34.webp",
+      "coin":1000
+    },
+    {
+      "id":35,
+      "name_category": "KUN",
+      "title":"35",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/35.webp",
+      "coin":1000
+    },
+    {
+      "id":36,
+      "name_category": "KUN",
+      "title":"36",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/36.webp",
+      "coin":1000
+    },
+    {
+      "id":37,
+      "name_category": "KUN",
+      "title":"37",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/37.webp",
+      "coin":1000
+    },
+    {
+      "id":38,
+      "name_category": "KUN",
+      "title":"38",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/38.webp",
+      "coin":1000
+    },
+    {
+      "id":39,
+      "name_category": "KUN",
+      "title":"39",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/39.webp",
+      "coin":1000
+    },
+    {
+      "id":40,
+      "name_category": "KUN",
+      "title":"40",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/40.webp",
+      "coin":1000
+    },
+    {
+      "id": 41,
+      "name_category": "KUN",
+      "title": "41",
+      "image": "https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/41.webp",
+      "coin":1000
+    },
+    {
+      "id":42,
+      "name_category": "KUN",
+      "title":"42",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/42.webp",
+      "coin":1000
+    },
+    {
+      "id":43,
+      "name_category": "KUN",
+      "title":"43",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/43.webp",
+      "coin":1000
+    },
+    {
+      "id":44,
+      "name_category": "KUN",
+      "title":"44",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/44.webp",
+      "coin":1000
+    },
+    {
+      "id":45,
+      "name_category": "KUN",
+      "title":"45",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/45.webp",
+      "coin":1000
+    },
+    {
+      "id":46,
+      "name_category": "KUN",
+      "title":"46",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/46.webp",
+      "coin":1000
+    },
+    {
+      "id":47,
+      "name_category": "KUN",
+      "title":"47",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/47.webp",
+      "coin":1000
+    },
+    {
+      "id":48,
+      "name_category": "KUN",
+      "title":"48",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/48.webp",
+      "coin":1000
+    },
+    {
+      "id":49,
+      "name_category": "KUN",
+      "title":"49",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/49.webp",
+      "coin":1000
+    },
+    {
+      "id":50,
+      "name_category": "KUN",
+      "title":"50",
+      "image":"https://cdn.statically.io/gh/kuntul5/tocaschoolbocaroutineimages/main/50.webp",
+      "coin":1000
+    }
+  ]
+}
